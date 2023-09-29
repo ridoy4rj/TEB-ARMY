@@ -1,1 +1,3 @@
 # TEB-ARMY
+
+cd tebarmy 
